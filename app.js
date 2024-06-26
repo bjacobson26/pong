@@ -20,7 +20,7 @@ var paddleSpeed = 10;
 // create the ball
 var ballSize = 20;
 var ballX = canvas.width / 2;
-var ballY = canvas.height / 2;
+var ballY = canvas.height / 4 ;
 var ballSpeedX = 5;
 var ballSpeedY = 5;
 
